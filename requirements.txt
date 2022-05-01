@@ -1,0 +1,4 @@
+torch==1.10.2+cu113
+pandas==1.4.2
+scikit-learn==1.0.2
+albumentations==1.1.0
